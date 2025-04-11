@@ -11,8 +11,8 @@ My code doesn’t always work, but when it does, I have no idea why.🙂🤠
 Skills:  HTML / CSS
 
 - 🔭 I’m currently working on My practice projects 
-- 🌱 I’m currently learning Html  and css 
-- 💬 Ask me about Html and Css 
+- 🌱 I’m currently learning Html , css,tailwind css javaScript and react.
+- 💬 Ask me about Html , css ,tailwind css , javaScript and react.
 - ⚡ Fun fact: My life is like a YouTube buffering video—always stuck at 99%.😖 
 
 
