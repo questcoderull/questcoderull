@@ -8,7 +8,7 @@ Eat. Sleep. Commit. Repeat.🤧
 
 My code doesn’t always work, but when it does, I have no idea why.🙂🤠
 
-Skills:  HTML / CSS
+Skills:  HTML / CSS / javascript / react/ firebase/ node.js/ mongodb
 
 - 🔭 I’m currently working on My practice projects 
 - 🌱 I’m currently learning Html , css,tailwind css javaScript and react.
