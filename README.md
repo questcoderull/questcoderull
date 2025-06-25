@@ -8,11 +8,11 @@ Eat. Sleep. Commit. Repeat.🤧
 
 My code doesn’t always work, but when it does, I have no idea why.🙂🤠
 
-Skills:  HTML / CSS / javascript / react/ firebase/ node.js/ mongodb
+Skills :  HTML / CSS / javascript / react/ firebase/ node.js/ mongodb
 
 - 🔭 I’m currently working on My practice projects 
-- 🌱 I’m currently learning Html , css,tailwind css javaScript and react.
-- 💬 Ask me about Html , css ,tailwind css , javaScript and react.
+- 🌱 I’m currently learning Html , css , tailwind css , javaScript , React , node.js , firebase  , mongodb.
+- 💬 Ask me about Html , css , tailwind css , javaScript , React , node.js , firebase  , mongodb.
 - ⚡ Fun fact: My life is like a YouTube buffering video—always stuck at 99%.😖 
 
 
