@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://i.ibb.co.com/VpYw3Qc0/git-cover.jpg)
+![Banner](https://i.ibb.co/VpYw3Qc/git-cover.jpg)
 
 # Hi there 👋, I'm **Rejaul Karim (Reja)**
 ### 💻 Full Stack Web Developer | Lifelong Learner
