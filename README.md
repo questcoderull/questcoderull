@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://via.placeholder.com/1920x400.png?text=Rejaul+Karim+%7C+Full+Stack+Developer)
+![Banner](https://i.ibb.co.com/VpYw3Qc0/git-cover.jpg)
 
 # Hi there 👋, I'm **Rejaul Karim (Reja)**
 ### 💻 Full Stack Web Developer | Lifelong Learner
