@@ -1,26 +1,83 @@
-# Hi there 👋, I am Reja(Reza)
-![I am a little learner](https://mir-s3-cdn-cf.behance.net/ccc39c9fe81ba93f23ad1d080591aefa/5a50c4a6-26c7-4e6b-bbfa-d777a956c044_rwc_-4x1504x6016x1053x6016.jpg?h=b7715901e87d181e9aa46f4f2a958037)
+<!-- Banner Image -->
+![Banner](https://via.placeholder.com/1920x400.png?text=Rejaul+Karim+%7C+Full+Stack+Developer)
 
-#### A little learner
+# Hi there 👋, I'm **Rejaul Karim (Reja)**
+### 💻 Full Stack Web Developer | Lifelong Learner
 
+---
 
-Eat. Sleep. Commit. Repeat.🤧
+## 🚀 About Me
+I’m a passionate **Full Stack Developer** who loves turning ideas into interactive, responsive, and user-friendly web applications.  
+Currently focusing on building projects with **React, Node.js, and MongoDB**, and always exploring new tools & frameworks to sharpen my skills.
 
-My code doesn’t always work, but when it does, I have no idea why.🙂🤠
+---
 
-Skills :  HTML / CSS / javascript / react/ firebase/ node.js/ mongodb
+## 📌 What I'm Up To
+- 🌱 Learning: **Next.js**, **Tailwind CSS**, **Express.js**
+- 🔭 Working on: **Tourism Website Project**
+- 🛠 Improving my **backend API design** and **deployment workflows**
+- 💬 Ask me about **React, Node.js, MongoDB, Firebase, Tailwind CSS**
 
-- 🔭 I’m currently working on My practice projects 
-- 🌱 I’m currently learning Html , css , tailwind css , javaScript , React , node.js , firebase  , mongodb.
-- 💬 Ask me about Html , css , tailwind css , javaScript , React , node.js , firebase  , mongodb.
-- ⚡ Fun fact: My life is like a YouTube buffering video—always stuck at 99%.😖 
+---
 
+## 🛠 Skills
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/questcoderull)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/GraphicRull1)  
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=questcoderull)](https://github.com/anuraghazra/github-readme-stats)
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=questcoderull&show_icons=true)  
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=questcoderull)  
+---
+
+## 🌐 Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/questcoderull)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=questcoderull&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=questcoderull&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=questcoderull&theme=tokyonight)
+
+---
+
+## 📌 Featured Projects
+
+### 1️⃣ [Tourism Website](https://your-live-project-link.com)
+**Description:** A responsive tourism website showcasing different destinations, packages, and booking options.  
+**Tech Used:** React, Tailwind CSS, Node.js, MongoDB, Firebase  
+![Screenshot](https://via.placeholder.com/600x300.png?text=Tourism+Website+Screenshot)
+
+---
+
+### 2️⃣ [E-Commerce Store](https://your-live-project-link.com)
+**Description:** An online store with product listings, cart functionality, and payment integration.  
+**Tech Used:** React, Redux, Node.js, Express, MongoDB  
+![Screenshot](https://via.placeholder.com/600x300.png?text=E-Commerce+Store+Screenshot)
+
+---
+
+### 3️⃣ [Portfolio Website](https://your-live-project-link.com)
+**Description:** Personal portfolio showcasing projects, skills, and contact form.  
+**Tech Used:** HTML, CSS, JavaScript, React  
+![Screenshot](https://via.placeholder.com/600x300.png?text=Portfolio+Screenshot)
+
+---
+
+⭐ *“Eat. Sleep. Commit. Repeat.”* 🚀
 
