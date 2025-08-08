@@ -1,22 +1,21 @@
 <!-- Banner Image -->
-![Banner](https://i.ibb.co/VpYw3Qc/git-cover.jpg)
+![Banner](https://i.ibb.co.com/VpYw3Qc0/git-cover.jpg)
 
 # Hi there 👋, I'm **Rejaul Karim (Reja)**
-### 💻 Full Stack Web Developer | Lifelong Learner
+### 💻 MERN Stack Web Developer
 
 ---
 
 ## 🚀 About Me
-I’m a passionate **Full Stack Developer** who loves turning ideas into interactive, responsive, and user-friendly web applications.  
-Currently focusing on building projects with **React, Node.js, and MongoDB**, and always exploring new tools & frameworks to sharpen my skills.
+I’m a passionate **MERN Stack Developer** who loves turning ideas into interactive, responsive, and user-friendly web applications.  
+Currently, I’m focusing on building projects with **React, Node.js, and MongoDB**, while exploring new tools & frameworks to sharpen my skills.
 
 ---
 
 ## 📌 What I'm Up To
-- 🌱 Learning: **Next.js**, **Tailwind CSS**, **Express.js**
-- 🔭 Working on: **Tourism Website Project**
-- 🛠 Improving my **backend API design** and **deployment workflows**
-- 💬 Ask me about **React, Node.js, MongoDB, Firebase, Tailwind CSS**
+- 🌱 Learning: **Next.js**, **React**, **Express.js**
+- 🛠 Improving my **backend API concepts** and **React/Next.js development**
+- 💬 Ask me about: **HTML, CSS, JavaScript, React, Node.js, MongoDB, Firebase, Tailwind CSS**
 
 ---
 
@@ -45,7 +44,7 @@ Currently focusing on building projects with **React, Node.js, and MongoDB**, an
 ## 🌐 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/questcoderull)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR-FACEBOOK)
 
 ---
 
@@ -58,26 +57,25 @@ Currently focusing on building projects with **React, Node.js, and MongoDB**, an
 
 ## 📌 Featured Projects
 
-### 1️⃣ [Tourism Website](https://your-live-project-link.com)
-**Description:** A responsive tourism website showcasing different destinations, packages, and booking options.  
-**Tech Used:** React, Tailwind CSS, Node.js, MongoDB, Firebase  
-![Screenshot](https://via.placeholder.com/600x300.png?text=Tourism+Website+Screenshot)
+### 1️⃣ [Fitness Website](https://fitify-5fe13.web.app/)
+**Description:** A responsive fitness website showcasing different courses, packages, and booking options.  
+**Tech Used:** React, Tailwind CSS, DaisyUI, Node.js, MongoDB, Firebase  
+![Screenshot](https://via.placeholder.com/600x300.png?text=Fitness+Website+Screenshot)
 
 ---
 
-### 2️⃣ [E-Commerce Store](https://your-live-project-link.com)
-**Description:** An online store with product listings, cart functionality, and payment integration.  
-**Tech Used:** React, Redux, Node.js, Express, MongoDB  
-![Screenshot](https://via.placeholder.com/600x300.png?text=E-Commerce+Store+Screenshot)
+### 2️⃣ [Blog Website](https://readly-8b506.web.app/)
+**Description:** An online blog platform where users can write posts, read others’ content, save posts to wishlists, like, and share their opinions through comments.  
+**Tech Used:** React, Tailwind CSS, DaisyUI, Node.js, Express, MongoDB  
+![Screenshot](https://via.placeholder.com/600x300.png?text=Blog+Website+Screenshot)
 
 ---
 
-### 3️⃣ [Portfolio Website](https://your-live-project-link.com)
-**Description:** Personal portfolio showcasing projects, skills, and contact form.  
-**Tech Used:** HTML, CSS, JavaScript, React  
-![Screenshot](https://via.placeholder.com/600x300.png?text=Portfolio+Screenshot)
+### 3️⃣ [Hotel Booking Website](https://questcoderull.github.io/Assignment-one-SC-/)
+**Description:** A hotel booking site with room reservation, agent info, blog section, and FAQs.  
+**Tech Used:** HTML, CSS  
+![Screenshot](https://via.placeholder.com/600x300.png?text=Hotel+Booking+Website+Screenshot)
 
 ---
 
 ⭐ *“Eat. Sleep. Commit. Repeat.”* 🚀
-
