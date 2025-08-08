@@ -60,21 +60,21 @@ Currently, I’m focusing on building projects with **React, Node.js, and MongoD
 ### 1️⃣ [Fitness Website](https://fitify-5fe13.web.app/)
 **Description:** A responsive fitness website showcasing different courses, packages, and booking options.  
 **Tech Used:** React, Tailwind CSS, DaisyUI, Node.js, MongoDB, Firebase  
-![Screenshot](https://via.placeholder.com/600x300.png?text=Fitness+Website+Screenshot)
+![Screenshot](https://i.ibb.co.com/jkNcz60v/Screenshot-2025-08-08-194740.png)
 
 ---
 
 ### 2️⃣ [Blog Website](https://readly-8b506.web.app/)
 **Description:** An online blog platform where users can write posts, read others’ content, save posts to wishlists, like, and share their opinions through comments.  
 **Tech Used:** React, Tailwind CSS, DaisyUI, Node.js, Express, MongoDB  
-![Screenshot](https://via.placeholder.com/600x300.png?text=Blog+Website+Screenshot)
+![Screenshot](https://i.ibb.co.com/R4t2pKVH/Screenshot-2025-08-08-194703.png)
 
 ---
 
 ### 3️⃣ [Hotel Booking Website](https://questcoderull.github.io/Assignment-one-SC-/)
 **Description:** A hotel booking site with room reservation, agent info, blog section, and FAQs.  
 **Tech Used:** HTML, CSS  
-![Screenshot](https://via.placeholder.com/600x300.png?text=Hotel+Booking+Website+Screenshot)
+![Screenshot](https://i.ibb.co.com/rRcRYphM/Screenshot-2025-08-08-194819.png)
 
 ---
 
